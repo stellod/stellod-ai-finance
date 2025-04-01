@@ -4,4 +4,4 @@ yfinance
 numpy
 pandas
 matplotlib
-TA-Lib
+
